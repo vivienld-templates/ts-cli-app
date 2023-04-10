@@ -1,3 +1,3 @@
-# Typescript package template
+# CLI App Template
 
-This is a template for a typescript package project.
+This is a template for a typescript CLI app.
