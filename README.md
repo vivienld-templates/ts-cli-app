@@ -4,6 +4,9 @@ This is a template for a typescript CLI app.
 
 ## Features
 
+- Facilitate dev with [commander](https://www.npmjs.com/package/commander)
+- Add prompts with [enquirer](https://www.npmjs.com/package/enquirer)
+- Add colors with [chalk](https://www.npmjs.com/package/chalk)
 - Unit testing with [jest](https://www.npmjs.com/package/jest)
 - Tests file generation with [jest-test-gen](https://www.npmjs.com/package/jest-test-gen)
 - Generate documentation from comments in TypeScript source code into rendered HTML with [typedoc](https://www.npmjs.com/package/typedoc)
